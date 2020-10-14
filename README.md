@@ -1,5 +1,4 @@
-# code-review-usefulness
-
+Repository for paper: Revisiting Code Review Usefulness: A Case Study at Samsung Research Bangladesh
 
 ## FastText Embedding model for code review
 
