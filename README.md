@@ -1,4 +1,4 @@
-Repository for paper: *Revisiting Code Review Usefulness: A Case Study at Samsung Research Bangladesh*
+Repository for the paper: *Revisiting Code Review Usefulness: A Case Study at Samsung Research Bangladesh*
 
 ## 4GB StackOverflow comments data
 https://drive.google.com/file/d/1wTm09NS6zchk2KyP8BrS51ZOutbmQGk3/view?usp=sharing
